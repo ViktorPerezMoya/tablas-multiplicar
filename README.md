@@ -1,4 +1,4 @@
-** TABLAS DE MULTIPLICACION
+## TABLAS DE MULTIPLICACION
 
 Esta aplicacion crea tablas de multiplicar
 
